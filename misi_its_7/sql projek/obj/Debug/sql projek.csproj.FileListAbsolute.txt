@@ -1,0 +1,16 @@
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\bin\Debug\sql projek.exe.config
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\bin\Debug\sql projek.exe
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\bin\Debug\sql projek.pdb
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql projek.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql_projek.Form1.resources
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql_projek.FormKategori.resources
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql_projek.FormProdukDetail.resources
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql_projek.FormProdukUtama.resources
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql_projek.FormTransaksiPenjualan.resources
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql_projek.Properties.Resources.resources
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql projek.csproj.GenerateResource.cache
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql projek.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql projek.exe
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql projek.pdb
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql projek.exe.config
+C:\Users\WINDOWS\Source\Repos\misi_its_6\sql projek\obj\Debug\sql_projek.FormLaporan.resources
